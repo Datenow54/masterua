@@ -1,0 +1,6 @@
+{
+  "name": "Elite Master UA Generator",
+  "description": "An advanced, developer-focused User-Agent generator supporting Chrome (Extended Engine 133-148), Firefox, and major social app platforms across Mobile, iOS, and Windows, with high-fidelity outputs, visual syntax highlighting, copy-to-clipboard actions, and historic session tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
